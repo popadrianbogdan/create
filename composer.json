@@ -16,7 +16,6 @@
     ],
     "require": {
         "php": ">=7.4",
-        "symfony/framework-bundle": "4.4.24",
         "friendsofsymfony/rest-bundle": "3.x-dev",
         "midgard/createphp": "~1.0"
     },
