@@ -15,10 +15,9 @@
         }
     ],
     "require": {
-        "php": ">=5.3.3",
-        "symfony/framework-bundle": "~2.3",
-        "symfony/assetic-bundle": "~2.1",
-        "friendsofsymfony/rest-bundle": "~1.0",
+        "php": ">=7.4",
+        "symfony/framework-bundle": "4.4.24",
+        "friendsofsymfony/rest-bundle": "3.x-dev",
         "midgard/createphp": "~1.0"
     },
     "require-dev": {
